@@ -10,3 +10,4 @@ C:\Users\Eeyad\Desktop\Game Dev\MonoGame\Monogame Tutorial\MonoGameLibrary\obj\D
 C:\Users\Eeyad\Desktop\Game Dev\MonoGame\Monogame Tutorial\MonoGameLibrary\obj\Debug\net9.0\refint\MonoGameLibrary.dll
 C:\Users\Eeyad\Desktop\Game Dev\MonoGame\Monogame Tutorial\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.pdb
 C:\Users\Eeyad\Desktop\Game Dev\MonoGame\Monogame Tutorial\MonoGameLibrary\obj\Debug\net9.0\ref\MonoGameLibrary.dll
+C:\Users\Eeyad\Desktop\Game Dev\MonoGame\Monogame Tutorial\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.sourcelink.json

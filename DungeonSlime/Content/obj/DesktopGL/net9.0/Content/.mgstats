@@ -1,1 +1,4 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Users/Eeyad/Desktop/Game Dev/MonoGame/Monogame Tutorial/DungeonSlime/Content/images/atlas.png","c:/Users/Eeyad/Desktop/Game Dev/MonoGame/Monogame Tutorial/DungeonSlime/Content/bin/DesktopGL/Content/images/atlas.xnb","TextureProcessor","Texture2DContent",590,16469,0.1127613
+"c:/Users/Eeyad/Desktop/Game Dev/MonoGame/Monogame Tutorial/DungeonSlime/Content/images/logo.png","c:/Users/Eeyad/Desktop/Game Dev/MonoGame/Monogame Tutorial/DungeonSlime/Content/bin/DesktopGL/Content/images/logo.xnb","TextureProcessor","Texture2DContent",16734,311381,0.0166169
+"c:/Users/Eeyad/Desktop/Game Dev/MonoGame/Monogame Tutorial/DungeonSlime/Content/images/pong-atlas.png","c:/Users/Eeyad/Desktop/Game Dev/MonoGame/Monogame Tutorial/DungeonSlime/Content/bin/DesktopGL/Content/images/pong-atlas.xnb","TextureProcessor","Texture2DContent",4746,663637,0.0183277
